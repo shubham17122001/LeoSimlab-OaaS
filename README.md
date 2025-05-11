@@ -1,3 +1,10 @@
+## 📦 How to Run Locally
+git clone https://github.com/yourusername/leosimlab.git
+cd leosimlab
+pip install -r requirements.txt
+streamlit run app.py
+Note: You can create virtual environment in anaconda powershell for streamlit installation and then try to run the app
+
 # LeoSimlab-OaaS
 LeoSimlab + OaaS is a web-based Simulation-as-a-Service prototype that enables carbon- and cost-aware mission planning for Low Earth Orbit (LEO) infrastructure. Built using Python and Streamlit, it offers orbital simulations, mission booking, CSV report generation, —designed to democratize access to commercial space planning tools.
 
