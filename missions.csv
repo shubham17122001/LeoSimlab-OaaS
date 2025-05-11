@@ -1,0 +1,10 @@
+Mission Name,Payload Mass (kg),Duration (days),Orbit Type,Estimated Cost (€),Prep Time,Carbon Footprint (tons CO₂)
+gaganyaan,2.0,100,LEO,110000.0,6-12 months,0.2
+3,13.0,13,LEO,165000.0,3-6 months,1.3
+iknow,10.0,10,LEO,150000.0,3-6 months,1.0
+11,10.0,10,LEO,150000.0,3-6 months,1.0
+jj,10.0,10,LEO,150000.0,3-6 months,1.0
+chandrayaan ,10.0,10,LEO,150000.0,3-6 months,1.0
+My demo Mission,22.0,38,LEO,210000.0,6-12 months,2.2
+My demo Mission,22.0,38,LEO,210000.0,6-12 months,2.2
+My demo Mission 1,0.0,30,LEO,100000.0,3-6 months,0.0

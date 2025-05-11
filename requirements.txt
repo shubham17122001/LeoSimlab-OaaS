@@ -1,0 +1,5 @@
+streamlit==1.21.0
+poliastro==0.15.0
+matplotlib==3.7.1
+astropy==5.2.2
+numpy==1.24.3
