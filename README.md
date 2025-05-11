@@ -1,8 +1,8 @@
 ## 📦 How to Run Locally
-git clone https://github.com/yourusername/leosimlab.git
-cd leosimlab
-pip install -r requirements.txt
-streamlit run app.py
+git clone https://github.com/yourusername/leosimlab.git ,
+cd leosimlab ,
+pip install -r requirements.txt  ,
+streamlit run app.py  ,
 Note: You can create virtual environment in anaconda powershell for streamlit installation and then try to run the app
 
 # LeoSimlab-OaaS
